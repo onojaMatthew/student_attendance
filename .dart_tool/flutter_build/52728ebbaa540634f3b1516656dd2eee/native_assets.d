@@ -1,0 +1,1 @@
+ /Users/codeslayer/Applications/student_attendant/.dart_tool/flutter_build/52728ebbaa540634f3b1516656dd2eee/native_assets.yaml: 
